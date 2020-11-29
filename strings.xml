@@ -1,0 +1,147 @@
+<resources>
+    <string name="app_name">Reviews</string>
+
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string-array name="names">
+        <item>Please select Subject...</item>
+        <item>AACT</item>
+        <item>ADVG</item>
+        <item>AENG</item>
+        <item>ANTH</item>
+        <item>ARCH</item>
+        <item>ARTB</item>
+        <item>ARTC</item>
+        <item>ARTD</item>
+        <item>ARTG</item>
+        <item>ARTH</item>
+        <item>ARTJ</item>
+        <item>ARTY</item>
+        <item>BIOE</item>
+        <item>BIOL</item>
+        <item>BUSI</item>
+        <item>BUSIE</item>
+        <item>CAMP</item>
+        <item>CHEM</item>
+        <item>CLNU</item>
+        <item>COMM</item>
+        <item>CRIM</item>
+        <item>CSCI</item>
+        <item>CTEC</item>
+        <item>DGIM</item>
+        <item>DTSC</item>
+        <item>ECON</item>
+        <item>EDCO</item>
+        <item>EENG</item>
+        <item>ENGY</item>
+        <item>ENVT</item>
+        <item>ESLI</item>
+        <item>ETCS</item>
+        <item>ETEC</item>
+        <item>EXSC</item>
+        <item>FCIQ</item>
+        <item>FCSC</item>
+        <item>FWCR</item>
+        <item>FINC</item>
+        <item>GHTH</item>
+        <item>HIST</item>
+        <item>HOSP</item>
+        <item>HRMT</item>
+        <item>HSCI</item>
+        <item>ICBS</item>
+        <item>ICLT</item>
+        <item>ICPH</item>
+        <item>ICSS</item>
+        <item>IDSP</item>
+        <item>IENG</item>
+        <item>INCS</item>
+        <item>ITEC</item>
+        <item>LLAW</item>
+        <item>MATH</item>
+        <item>MENG</item>
+        <item>MGMT</item>
+        <item>MGMTE</item>
+        <item>MIST</item>
+        <item>MRKT</item>
+        <item>MSME</item>
+        <item>NTSI</item>
+        <item>NURS</item>
+        <item>NYIT</item>
+        <item>OCTH</item>
+        <item>PHAS</item>
+        <item>PHIL</item>
+        <item>PHTH</item>
+        <item>PHYS</item>
+        <item>PREL</item>
+        <item>PROD</item>
+        <item>PSCI</item>
+        <item>PSYC</item>
+        <item>QANT</item>
+        <item>RADI</item>
+        <item>SBES</item>
+        <item>SOCI</item>
+        <item>TEVE</item>
+        <item>WRIT</item>
+        <item>XHRC</item>
+        <item>XMGT</item>
+    </string-array>
+
+
+    <string-array name="acctprofessors">
+        <item>Please select Professor</item>
+        <item>Professor Nag</item>
+        <item>Professor Nam</item>
+        <item>Professor Yun</item>
+        <item>Professor Zeng</item>
+        <item>Professor Akazi</item>
+        <item>Professor Afxentiou</item>
+        <item>Professor Kutasovic</item>
+    </string-array>
+
+    <string-array name="csciprofessors">
+        <item>Please select Professor</item>
+        <item>Professor Akhtar</item>
+        <item>Professor Balagani</item>
+        <item>Professor Bhatt</item>
+        <item>Professor Gass</item>
+        <item>Professor Huang</item>
+        <item>Professor Kopecky</item>
+        <item>Professor Lee</item>
+        <item>Professor Newman</item>
+        <item>Professor Nizich</item>
+        <item>Professor Silva</item>
+        <item>Professor Zhang</item>
+    </string-array>
+
+    <string-array name="etcsprofessors">
+        <item>Please select Professor</item>
+        <item>Professor Artan</item>
+        <item>Professor Baghaie</item>
+        <item>Professor Bala</item>
+        <item>Professor Billis</item>
+        <item>Professor Chalise</item>
+        <item>Professor Chaudhuri</item>
+        <item>Professor Colef</item>
+        <item>Professor Dong</item>
+    </string-array>
+
+    <string-array name="fcwrprofessors">
+        <item>Please select Professor</item>
+        <item>Professor Golden</item>
+        <item>Professor Haber</item>
+        <item>Professor LaGrandier</item>
+        <item>Professor Lazarus</item>
+        <item>Professor Love</item>
+        <item>Professor MacDonald</item>
+        <item>Professor Misak</item>
+        <item>Professor Navia</item>
+    </string-array>
+</resources>
